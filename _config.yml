@@ -1,11 +1,11 @@
 title: Nicholas Sim # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <strong>Degree in Mechanical Engineering</strong>
+  <strong>Degree in Mechanical Engineering</strong<br>
   <br><strong>Aspiring Data Analyst</strong></br>
   
   <br>Currently working as a consultant within the facility management industry.<br>I study data science and machine learning using python in my free time. Have attended online course on udemy to develop my understand and skills in data science/machine learning.</br>
-  <br>Thank you for visiting my portfolio page!</br>
+  <br>Thank you for visiting my portfolio page!</br><br>
   
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
