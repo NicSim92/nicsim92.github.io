@@ -133,7 +133,11 @@ plt.show()
 
 The data is then plotted using matplotlib. The results shows some difference in the how each sentiment analyzer performs. Both sentiments are similar in rating however, vader results seems to show that it can identify sentiment in a headline whereas TextBlob associates that headline to be neutral.
 
-END
+<br>
+<br>
+<br>
+
+<a href="https://nicsim92.github.io/" style="font-size: 30px">Return to Main Selection Page</a>
 
 
 
