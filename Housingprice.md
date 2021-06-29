@@ -175,7 +175,11 @@ From the coeffecients, we can interpret that:
 
 * e.g. Holding all other features fixed, a 1 unit increase in financial year is associated with an increase of 3,676 in selling price.
 
-END
+<br>
+<br>
+<br>
+
+<a href="https://nicsim92.github.io/" style="font-size: 30px">Return to Main Selection Page</a>
 
 
 
