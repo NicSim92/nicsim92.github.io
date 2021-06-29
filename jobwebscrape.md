@@ -227,4 +227,8 @@ with open ('C:/Users/Username/data_analyst.csv', 'a', encoding='utf-8', newline=
     time.sleep(0.5)
 ```
 
-*END*
+<br>
+<br>
+<br>
+
+<a href="https://nicsim92.github.io/" style="font-size: 30px">Return to Main Selection Page</a>
